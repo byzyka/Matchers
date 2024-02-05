@@ -5,8 +5,7 @@
   "main": "index.js",
   "scripts": {
     "lint": "eslint",
-    "build": "babel src -d dist",
-    "test": "jest --coverage"
+     "test": "jest --coverage"
   },
   "author": "Zoya",
   "license": "ISC",
