@@ -6,4 +6,3 @@ const heroes = [
 export const sortHero = heroes.sort((a, b) => b.health - a.health);
 
 
-console.log(sortHero)
